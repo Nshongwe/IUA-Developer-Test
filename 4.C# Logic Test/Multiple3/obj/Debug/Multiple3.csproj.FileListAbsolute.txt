@@ -1,0 +1,18 @@
+E:\IUA Developer Test\Multiple3\Multiple3\bin\Debug\Multiple3.exe.config
+E:\IUA Developer Test\Multiple3\Multiple3\bin\Debug\Multiple3.exe
+E:\IUA Developer Test\Multiple3\Multiple3\bin\Debug\Multiple3.pdb
+E:\IUA Developer Test\Multiple3\Multiple3\obj\Debug\Multiple3.csprojResolveAssemblyReference.cache
+E:\IUA Developer Test\Multiple3\Multiple3\obj\Debug\Multiple3.exe
+E:\IUA Developer Test\Multiple3\Multiple3\obj\Debug\Multiple3.pdb
+H:\IUA Developer Test\C# Logic Test\Multiple3\bin\Debug\Multiple3.exe.config
+H:\IUA Developer Test\C# Logic Test\Multiple3\obj\Debug\Multiple3.exe
+H:\IUA Developer Test\C# Logic Test\Multiple3\obj\Debug\Multiple3.pdb
+H:\IUA Developer Test\C# Logic Test\Multiple3\bin\Debug\Multiple3.exe
+H:\IUA Developer Test\C# Logic Test\Multiple3\bin\Debug\Multiple3.pdb
+H:\IUA Developer Test\C# Logic Test\Multiple3\obj\Debug\Multiple3.csprojResolveAssemblyReference.cache
+E:\IUA Developer Test\4.C# Logic Test\Multiple3\bin\Debug\Multiple3.exe.config
+E:\IUA Developer Test\4.C# Logic Test\Multiple3\obj\Debug\Multiple3.exe
+E:\IUA Developer Test\4.C# Logic Test\Multiple3\obj\Debug\Multiple3.pdb
+E:\IUA Developer Test\4.C# Logic Test\Multiple3\bin\Debug\Multiple3.exe
+E:\IUA Developer Test\4.C# Logic Test\Multiple3\bin\Debug\Multiple3.pdb
+E:\IUA Developer Test\4.C# Logic Test\Multiple3\obj\Debug\Multiple3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,61 @@
+<html>
+<head>
+
+<title>IUA JavaScript Test</title>
+
+<meta http-equiv="x-ua-compatible" content="IE=9">
+
+<style type="text/css">
+body { font-family: Arial; font-size: 12px; color: #A0A0A0; }
+</style>
+<script src="jquery-1.10.2.min.js"></script>
+
+
+<script>
+
+$(document).ready(function(){
+$("#btnpopulate").click(function(){
+
+$.getJSON("JsonData.json",function(ajaxresult){
+
+var tbody = "";
+ $.each(ajaxresult, function() {
+        var trow = "";
+        $.each(this, function(k , v) {
+            trow += "<td>"+v+"</td>";
+
+        })
+        $("#tbldata").append("<tr>"+trow+"</tr>");                 
+    })
+
+});
+});
+});
+  
+
+
+
+</script>
+</head>
+
+<body>
+
+
+
+<h1 id="demo">IUA JavaScript Test</h1>
+<table id="tbldata">
+	<tr>
+		<th>ID</th>
+		<th>Name</th>
+		<th>ID Number</th>
+	</tr>
+</table>
+<p>
+<button id="btnpopulate">Populate</button>
+
+</p>
+
+
+
+</body>
+</html>
